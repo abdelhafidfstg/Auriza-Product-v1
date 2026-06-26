@@ -38,7 +38,7 @@ export const metadata: Metadata = {
       'Révélez la beauté naturelle de vos cheveux avec AURIZA, une huile capillaire premium 100% naturelle.',
     type: 'website',
     locale: 'fr_FR',
-    images: ['/auriza-bottle.jpeg'],
+    images: ['/auriza-bottle-.jpeg'],
   },
   icons: {
     icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
