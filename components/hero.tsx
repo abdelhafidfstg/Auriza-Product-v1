@@ -86,7 +86,7 @@ export function Hero() {
             className="relative mx-auto w-full max-w-[420px]"
           >
             <Image
-              src="/auriza-bottle.jpeg"
+              src="/auriza-bottle-.jpeg"
               alt="Flacon d'huile capillaire AURIZA 100 ml avec compte-gouttes"
               width={840}
               height={1200}
