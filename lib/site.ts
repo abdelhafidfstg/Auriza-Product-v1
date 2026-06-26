@@ -2,7 +2,7 @@
 
 export const site = {
   name: 'AURIZA',
-  slogan: 'Healthy Hair By Touch Natural',
+  slogan: 'Healthy Hair B Touch Natural',
   // Numéro WhatsApp au format international, sans "+" ni espaces.
   whatsapp: '0664740124',
   whatsappLabel: '+212 6 64 74 01 24',
