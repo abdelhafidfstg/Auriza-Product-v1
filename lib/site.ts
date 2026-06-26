@@ -11,7 +11,8 @@ export const site = {
   tiktok: 'https://tiktok.com/@auriza',
   // 📩 FormSubmit : remplacez par votre adresse e-mail réelle.
   // Le formulaire enverra les demandes directement vers cet e-mail, sans backend.
-  formSubmitEmail: 'YOUR_EMAIL@example.com',
+  formSubmitEmail: 'abdelhafidfstg@gmail.com',
+  // formSubmitEmail: 'YOUR_EMAIL@example.com',
 } as const
 
 export const whatsappLink = (text: string) =>
